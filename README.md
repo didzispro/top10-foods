@@ -23,5 +23,4 @@ How to View
 
 Author
 
-- Your Name (or username)
 - [YouTube Channel](https://www.youtube.com/@iamprodasher2) 
