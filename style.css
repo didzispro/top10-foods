@@ -1,0 +1,75 @@
+body{
+    color:  #2E3B2B;
+    background: #F0F0F0;
+    text-align: center;
+    padding: 40px;
+}
+header{
+    font-size: 20px;
+    background-color: #B6CEB4;
+    border-radius: 25px;
+    margin: 25px;
+    border: outset black ;
+}
+header h1{
+    margin-top: -35px;
+    font-size: 40px;
+    color: #F0F0F0;
+    font-weight: 100;
+    background-color: #96A78D;
+    border-radius: 25px;
+    border: solid black ;
+    padding: 10px;
+}
+header p, header a{
+    color: #F0F0F0;
+}
+header figure img{
+    
+    margin-right: -5px;
+    border-radius: 25px;
+    border: solid black;
+}
+ol{
+    list-style-position: inside;
+    border: solid black;
+    padding-top: 20px;
+    margin-right: 38px;
+    margin-left: 35px;
+    margin-top: -30px;
+    border-radius: 0px 0px 25px 25px;
+    background-color: #ffffff;
+}
+section h2{
+    position: absolute;
+    z-index: 1;
+    position: relative;
+    bottom: -10px;
+    border: solid black;
+    padding: 10px;
+    margin: 26px;
+    border-radius: 25px;
+    background-color:  #ffffff;
+    font-size: 30px;
+}
+section table{
+    padding: 20px;
+    border: solid black;
+    background-color: #ffffff;
+    border-radius: 25px;
+}
+ol li article figure img{
+    border: solid black;
+    border-radius: 25px;
+}
+body footer nav a{
+    color: #ffffff;
+    background-color: #96A78D;
+    border-radius: 25px;
+    padding: 10px;
+    margin-top: 30px;
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
